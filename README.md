@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AimeeGonell
 - 👀 I’m interested in numbers, travelling and outdoor sports.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 Junior Data Analyst.
 - 💞️ I’m looking to collaborate on anything that sounds cool.
 - 📫 How to reach me aimee@punksec.com
 
